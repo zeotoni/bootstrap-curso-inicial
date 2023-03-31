@@ -1,0 +1,45 @@
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.font-pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.font-dark-red {
+    color: darkred;
+}
+
+.btn-principal {
+    background-color: darkred;
+    color: #FFF;
+}
+
+.btn-principal:hover {
+    background-color: darkred;
+    color: #FFF;
+    opacity: .8;
+}
+
+.borda-card {
+    border-color: darkred;
+}
+
+.card-img {
+    object-fit: cover;
+    height: 200px;
+}
+
+.largura-card {
+    max-width: 18rem;
+}
+
+.underline-email {
+    text-decoration: none;
+}
+
+.underline-email:hover {
+    text-decoration: underline;
+}
